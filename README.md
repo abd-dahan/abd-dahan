@@ -11,4 +11,5 @@ This repo is where I post my CTF write-ups and project breakdowns whenever I lea
 
 Find me on:
 [TryHackMe☁️](https://tryhackme.com/p/Embodiment)
+
 [LinkedIn💼](https://www.linkedin.com/in/abdallah-jalil-5492963a8/)
