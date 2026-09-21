@@ -1,11 +1,11 @@
-## Hello!
-I'm Abdallah, a Cybersecurity Engineering student at Abu Dhabi University (AE), focused on the defensive side of security: blue teaming, threat intelligence, and SOC operations.
+## Hi!
 
-While I'm still building my formal SOC experience, I often participate in CTFs. Despite it being a red team practice i believe that it's a core part of threat intel which directly sharpens my detection skills on the blue side. I also build personal projects exploring real-world attack techniques and detection logic.
 
 🔹 Threat detection & incident response
 🔹 Threat intelligence gathering and analysis
 🔹 SOC monitoring, alert triage, and detection logic
+🔹 CTF guides / write-ups
+🔹 Projects every now and then
 
 Find me on:
 
