@@ -2,12 +2,16 @@
 
 
 🔹 Threat detection & incident response
+
 🔹 Threat intelligence gathering and analysis
+
 🔹 SOC monitoring, alert triage, and detection logic
+
 🔹 CTF guides / write-ups
+
 🔹 Projects every now and then
 
-Find me on:
+# Find me on:
 
 🔹 [TryHackMe☁️](https://tryhackme.com/p/Embodiment)
 
