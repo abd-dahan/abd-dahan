@@ -1,6 +1,3 @@
-## Hi!
-
-
 🔹 Threat detection & incident response
 
 🔹 Threat intelligence gathering and analysis
